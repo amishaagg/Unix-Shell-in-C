@@ -2,9 +2,9 @@
 Basic linux shell made using C
 
 ## Commands Implemented
-### Internal Commands
-cd
-echo
+* Internal Commands
+   * cd
+  * echo
 pwd
 history
 exit
