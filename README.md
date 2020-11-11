@@ -25,9 +25,9 @@ Internal commands are handled directly by shell. For each external command I hav
 
 ### Commands
 * cd:
--P use the physical directory structure without following symbolic links
---help gives description of cd
-errors: too many arguments, no such directory found, error opening help file
+  * -P use the physical directory structure without following symbolic links
+  * --help gives description of cd
+  * errors: too many arguments, no such directory found, error opening help file
 
 * echo: 
 -n do not output the trailing newline
